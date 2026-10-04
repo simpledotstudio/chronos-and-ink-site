@@ -1,0 +1,14 @@
+{
+  "hosting": [
+    {
+      "target": "chronosandink",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        ".firebaserc",
+        "**/.*",
+        "**/node_modules/**"
+      ]
+    }
+  ]
+}
