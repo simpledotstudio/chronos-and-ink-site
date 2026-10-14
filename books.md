@@ -33,11 +33,12 @@ Short, impactful manuals designed to clear mental friction and sharpen execution
 | How To Stop Procrastination | images/HowToStopProcrastination.jpg | https://kdpbook.link/for/B0GKY8W2XJ |
 | How to Drive Manifestation | images/HowToDriveManifestation.jpg | https://kdpbook.link/for/B0GXS7HP3V |
 
-### Know Your Series
+### Know Yourself Series
 
 | Book Title | Image | Link |
 |---|---|---|
 | Know Your Affirmation | images/KnowYourAffirmation.jpg | https://kdpbook.link/for/B0HF4HFTCX |
+| Know Your Vibrations | images/KnowYourVibrations.png | https://kdpbook.link/for/B0HMP5NWR7 |
 
 ### Journals
 Mindful prompt templates and tactical focus tools designed for modern habits.
@@ -69,4 +70,4 @@ Classic layout structural spaces for deep long-form writing and daily memories.
 
 ---
 
-**Total Books:** 23 titles
+**Total Books:** 24 titles
